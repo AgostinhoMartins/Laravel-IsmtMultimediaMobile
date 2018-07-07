@@ -1,0 +1,152 @@
+@font-face {
+    font-family: oswald-regular;
+    src: url("../fonts/oswald/Oswald-Regular.ttf");
+}
+
+@font-face {
+    font-family: oswald-bold;
+    src: url("../fonts/oswald/Oswald-Bold.ttf");
+}
+@font-face {
+    font-family: oswald-light;
+    src: url("../fonts/oswald/Oswald-light.ttf");
+}
+/* altera a cor do titílo do menu */
+
+.table td, .table th{
+        
+    text-align: center;
+}
+.tab-center{
+    margin-right: auto;
+    margin-left: auto;
+}
+.centrar-botao{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+/* bootstrap selectpicker */
+.bootstrap-select .btn {
+  background-color: #141414;
+  border-style: solid;
+  border-left-width: 3px;
+  border-top: none;
+  border-bottom: none;
+  border-right: none;
+  color: white;
+  font-weight: 200;
+  padding: 12px 12px;
+  font-size: 16px;
+  margin-bottom: 10px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+/* large desktops and up ----------- */
+@media screen and (min-width: 1200px) {
+    .navbar{
+        font-family: oswald-light;
+        font-size: 1.5em;
+    }
+    .tab-texto {
+        font-family: oswald-light;
+        font-size: 1.5em;
+    }
+    .tab-botao{
+        font-family: oswald-light;
+        font-size: 1em;
+        margin-bottom: 0.2em;
+    }
+    .botao-ext{
+        font-family: oswald-light;
+        font-size: 1.5em;
+        text-align: center;
+    }
+}
+
+/* tablets/desktops and up ----------- */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+    .navbar{
+        font-family: oswald-light;
+        font-size: 1.3em;
+    }
+
+    .tab-texto {
+        font-family: oswald-light;
+        font-size: 1.3em;
+    }
+    .tab-botao{
+        font-family: oswald-light;
+        font-size: 1.3em;
+        margin-bottom: 0.2em;
+    }
+    .botao-ext{
+        font-family: oswald-light;
+        font-size: 1.3em;
+    }
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991px) {
+
+    .navbar{
+        font-family: oswald-light;
+        font-size: 1.2em;
+    }
+    .tab-texto {
+        font-family: oswald-light;
+        font-size: 1.2em;
+    }
+    .tab-botao{
+        font-family: oswald-light;
+        font-size: 1em;
+        margin-bottom: 0.2em;
+    }
+    .botao-ext{
+        font-family: oswald-light;
+        font-size: 1.2em;
+    }
+}
+
+/* Extra small devices (phones, up to 480px) */
+
+@media screen and (max-width: 767px) {
+
+    .navbar{
+        font-family: oswald-light;
+        font-size: 1em;
+    }
+    .tab-texto {
+        font-family: oswald-light;
+        font-size: 1em;
+    }
+    .tab-botao{
+        font-family: oswald-light;
+        font-size: 1em;
+        margin-bottom: 0.2em;
+    }
+    .botao-ext{
+        font-family: oswald-light;
+        font-size: 1em;
+    }
+}
+
+
+/**********************************
+* o font do menu é Oswald-regular *
+**********************************/
+
+/************************************************
+*  centrar os butões do menu no formato mobile  *
+*************************************************/ 
+#main_navbar ul > li a {
+	text-align: center;
+}
+
+.navbar-brand {
+    color: rgb(97, 170, 219)  !important;
+}

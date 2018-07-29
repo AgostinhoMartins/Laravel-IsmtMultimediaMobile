@@ -17,4 +17,3 @@ Ano Lectivo: 2017/2018
 ![Alt-Text1](https://user-images.githubusercontent.com/29103322/26978640-26fc2210-4d24-11e7-94cd-9b0837479be7.jpg) www.ismt.pt
 
 ![Alt-Text2](https://user-images.githubusercontent.com/29103322/26978860-cfe14ff4-4d24-11e7-8c47-67a57fe60c76.jpg) https://pt-pt.facebook.com/ismtcoimbra/
-

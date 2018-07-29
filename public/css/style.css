@@ -21,6 +21,7 @@
     margin-right: auto;
     margin-left: auto;
 }
+/* botão do fundo */
 .centrar-botao{
     text-align: center;
     margin: 0.5em;
@@ -146,7 +147,7 @@
 #main_navbar ul > li a {
 	text-align: center;
 }
-
+/* alterar a cor da marca no menu */
 .navbar-brand {
     color: rgb(97, 170, 219)  !important;
 }

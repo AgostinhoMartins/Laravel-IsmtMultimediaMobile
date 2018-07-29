@@ -20,3 +20,8 @@ Route::resource('professorinfo', 'Professorcontroller');
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get("/encrypt", "Alunocontroller@encryptvalor");
+Route::get("/decrypt", "Alunocontroller@decryptvalor");
+
+

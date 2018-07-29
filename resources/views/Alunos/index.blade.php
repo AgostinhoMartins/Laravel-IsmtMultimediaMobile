@@ -4,7 +4,7 @@
         <tr class="bg-warning tab-texto">
             <th>Nº do Aluno</th>
             <th>Nome</th>
-            <th>Ano do Aluno</th>
+            <th>Ano Curricu. Aluno</th>
             <th>Data (atualização)</th>
             <th>Mais Info.</th>
             <th>Editar</th>

@@ -1,4 +1,4 @@
-Autor da Aplicação: AGOSTINHO MARTINS
+Autor do projeto: AGOSTINHO MARTINS
 
 Plataforma: Laravel
 
